@@ -12,7 +12,7 @@ To use it, just include
 
 Easiest way is to install is with bower, this will also include dependencies:
 ```bash
-$ bower install chengz/schema-form-currency
+$ bower install LordHelmchen84/schema-form-currency
 ```
 
 
